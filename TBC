@@ -1,0 +1,352 @@
+{
+  "sistema": "IH-Monolith-Interactivo",
+  "estado": "INICIADO",
+  "timestamp": "2026-02-22T18:22:10.702102+00:00"
+}
+{
+  "timestamp": "2026-02-22T18:22:10.702386+00:00",
+  "estado": "EN_CURSO",
+  "hash": "911f47cac7242d4cbc21228ceef7686a148d3ad87dd1a20fd8a6516d59f0381e"
+}
+
+=== IH-MONOLITH / CPIA-JOHNSON ===
+Modo interactivo SE3 (multilínea)
+Escribe texto línea por línea.
+Cuando quieras procesar, escribe: SE3
+Para salir, escribe: EOF
+
+> Proyecto: Teoría de la Brújula Cuántica (TBC)
+
+
+Autor: Jhosman Carlos Martínez Morales
+
+Estado: Desarrollo / especulativo
+
+Fecha: 25 de octubre de 2025
+
+Relaciones: TPI, TB, TPP
+
+Licencia: Uso personal, educativo e investigativo (no comercial)
+
+
+
+---
+
+
+1. Introducción
+
+
+La Brújula Cuántica es un sistema conceptual y multidimensional para orientación, rastreo y org> anización de> >  información en > > > > > > > > > > > > > > > > > > redes paralelas, superpuestas o cuánticas.
+
+Su objetivo principal es servir como GPS de datos, evitando la pérdida de información y permitiendo análisis especulati> vos > sobre flujos temporales y paralelos.
+
+
+
+---
+
+
+2. Fu> > > ndamen> > > tos
+
+
+> Nodos cu> ántic> > os: Cada punto de la brújula es un nodo que almacena información, coordenadas y resonancia.
+
+> >
+> Expansión estelar: Cada punta puede generar otra brújula cuántica, creando una red expansiva que cubre espacio-tiempo conceptual.
+>
+>
+Dimensiones:
+
+
+1ª:> > > >  izquierda / derecha
+>
+
+2ª: > > arriba / abajo
+
+> >
+3ª: centro / p> rofundidad
+
+> >
+4ª: tiempo> : pasado / presente / futuro, paralelo / superpuesto
+
+> >
+
+
+
+---
+
+
+3.> > > > > > >  Integración con teorías existentes
+>
+
+Teoría  > > Rol en TBC
+
+
+TPI (Pre> > > gunta Infinita)   Genera preguntas derivadas para explorar nodos y trayectorias.
+>
+> TB (Burbujas) Organiza la información en burbujas verificadas y complementarias.
+>
+> TPP (Paradoja)        Explica la coexistencia de respuestas contradictorias y fenómenos tipo efecto Mandela.
+
+
+
+
+---
+> > > > > >
+
+4. Funcio> > nalidad y aplicaciones
+>
+>
+1. Rastr> eo de información cuántica: Localiza origen y flujo de datos sin introducir materia física.
+
+
+> > >
+2. Simulación de tr> ayectorias paralelas: Permite modelar cómo se propaga la información en líneas temporales superpuestas.
+>
+>
+
+3. An> > álisis de anomalías cognitivas y temporales: Como déjà vu o efecto Mandela, explicando su posible origen en nodos interconectados.
+
+
+
+> > > > 4. Mapeo multidimensional de conocimiento: Cada nodo conecta con burbujas verificadas o complementarias, expandiendo la comprensión sin perder coherencia.
+
+
+
+
+> >
+-> > --> >
+
+
+5. > Est> > ructura de nodos (ejemplo JSON)
+
+>
+{> >
+
+> >   "hash": "21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01",
+>
+  "> tipo_nodo": "central/paradoja",
+>
+  > "dimensiones": {
+
+    "x": "izquierda/derecha",
+
+   >  "> > > y": "arriba/abajo",
+
+ >  >   "z": "centro/profundidad",
+
+>  >    "t": "presente/futuro/pasado",
+>
+  >   "resonancia": "alta"
+>
+  > },
+>
+  > "burbujas_relacionadas": ["#burb1", "#burb2", "#burb3"],
+>
+  "n> otas": "Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad."
+>
+}
+
+> > >
+
+--> > -
+
+
+> > > 6. Metodología de expansión
+
+
+> 1.> >  Cada nodo puede originar nuevas brújulas cuánticas en sus puntas.
+
+
+
+2. > La> s > nu> evas brújulas se integran a la red de nodos existente, creando mapas estelares.
+
+
+
+3. > Las b> > > urbujas complementarias nutren la comprensión sin reemplazar la información verificada.
+
+
+
+4.>  L> as>  p> reguntas generadas por TPI permiten evaluar cada nodo y actualizar su resonancia o relevancia.
+
+
+
+
+>
+--> ->
+
+>
+> 7.>  Ve> nt> aj> as del sistema
+>
+
+Escala> > ble: puede crecer indefinidamente sin perder coherencia.
+
+
+> Tr> az> able: cada nodo tiene huella digital y resonancia.
+
+
+Robusto> > > : combina lo verificable (TB) y lo especulativo (TPP) con preguntas generativas (TPI).
+
+
+Flexible:> > >  permite experimentación conceptual sobre líneas de tiempo y paralelos.
+
+
+
+
+---
+
+
+8. S> > > > > > > > íntesis conceptual
+
+
+Brú> > > jula Cuántica = GPS multidimensional de datos
+
+
+Nodos este> > > lares = puntos de información con resonancia y coordenadas
+
+
+TPI>  = > > motor de preguntas que expande la red
+
+
+TB = organización> >  jerá> rquica y semántica
+
+
+TPP = explicación d> > e fenó> menos contradictorios y paradojas
+
+
+
+
+
+{
+
+  > > > > > > > > "hash": "21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01",
+
+  > > "tipo_nodo": "central/paradoja",
+
+ > >  "dimensiones": {
+
+   >  > "x": "izquierda/derecha",
+
+  >   > "y": "arriba/abajo",
+>
+    "> z": "centro/profundidad",
+
+    "t> > ": "presente/futuro/pasado",
+
+ >  >   "resonancia": "alta"
+
+ > >  },
+
+ > >  "burbujas_relacionadas": ["#burb1", "#burb2", "#burb3"],
+
+ > >  "notas": "Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad."
+
+}>
+
+> > >
+> SE3
+
+--- Procesando con IHCoreUltra ---
+
+>>> SALIDA JSON ESTRUCTURAL:
+{
+  "sistema": "IH-Monolith-Interactivo",
+  "version": "1.0",
+  "autor": "Jhosman Carlos Martínez Morales",
+  "firma": "CPIA/Johnson",
+  "timestamp": "2026-02-22T18:23:47.827265+00:00",
+  "input": {
+    "HUELLA": "OK",
+    "texto": "Proyecto: Teoría de la Brújula Cuántica (TBC)\nAutor: Jhosman Carlos Martínez Morales\nEstado: Desarrollo / especulativo\nFecha: 25 de octubre de 2025\nRelaciones: TPI, TB, TPP\nLicencia: Uso personal, educativo e investigativo (no comercial)\n---\n1. Introducción\nLa Brújula Cuántica es un sistema conceptual y multidimensional para orientación, rastreo y organización de información en redes paralelas, superpuestas o cuánticas.\nSu objetivo principal es servir como GPS de datos, evitando la pérdida de información y permitiendo análisis especulativos sobre flujos temporales y paralelos.\n---\n2. Fundamentos\nNodos cuánticos: Cada punto de la brújula es un nodo que almacena información, coordenadas y resonancia.\nExpansión estelar: Cada punta puede generar otra brújula cuántica, creando una red expansiva que cubre espacio-tiempo conceptual.\nDimensiones:\n1ª: izquierda / derecha\n2ª: arriba / abajo\n3ª: centro / profundidad\n4ª: tiempo: pasado / presente / futuro, paralelo / superpuesto\n---\n3. Integración con teorías existentes\nTeoría\tRol en TBC\nTPI (Pregunta Infinita)\tGenera preguntas derivadas para explorar nodos y trayectorias.\nTB (Burbujas)\tOrganiza la información en burbujas verificadas y complementarias.\nTPP (Paradoja)\tExplica la coexistencia de respuestas contradictorias y fenómenos tipo efecto Mandela.\n---\n4. Funcionalidad y aplicaciones\n1. Rastreo de información cuántica: Localiza origen y flujo de datos sin introducir materia física.\n2. Simulación de trayectorias paralelas: Permite modelar cómo se propaga la información en líneas temporales superpuestas.\n3. Análisis de anomalías cognitivas y temporales: Como déjà vu o efecto Mandela, explicando su posible origen en nodos interconectados.\n4. Mapeo multidimensional de conocimiento: Cada nodo conecta con burbujas verificadas o complementarias, expandiendo la comprensión sin perder coherencia.\n---\n5. Estructura de nodos (ejemplo JSON)\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}\n---\n6. Metodología de expansión\n1. Cada nodo puede originar nuevas brújulas cuánticas en sus puntas.\n2. Las nuevas brújulas se integran a la red de nodos existente, creando mapas estelares.\n3. Las burbujas complementarias nutren la comprensión sin reemplazar la información verificada.\n4. Las preguntas generadas por TPI permiten evaluar cada nodo y actualizar su resonancia o relevancia.\n---\n7. Ventajas del sistema\nEscalable: puede crecer indefinidamente sin perder coherencia.\nTrazable: cada nodo tiene huella digital y resonancia.\nRobusto: combina lo verificable (TB) y lo especulativo (TPP) con preguntas generativas (TPI).\nFlexible: permite experimentación conceptual sobre líneas de tiempo y paralelos.\n---\n8. Síntesis conceptual\nBrújula Cuántica = GPS multidimensional de datos\nNodos estelares = puntos de información con resonancia y coordenadas\nTPI = motor de preguntas que expande la red\nTB = organización jerárquica y semántica\nTPP = explicación de fenómenos contradictorios y paradojas\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}"
+  },
+  "resultado_nccm": {
+    "clasificacion": {
+      "tipo": "VERIFICADA",
+      "color": "🔵",
+      "descripcion": "Coincide directamente con el objetivo funcional."
+    },
+    "coherente": true,
+    "estado_coherencia": {
+      "exitos": 1,
+      "fallos": 0
+    },
+    "memoria_merkle": {
+      "merkle_root": "2a68ca91c6973549a7ddb372796095595908eda7c2e99144702811b939604e52",
+      "total_leaves": 2,
+      "leaves": [
+        "940f59c2d161faa147166bfdd6901bfbe0cb578a7b636b88f861166f30e4c751",
+        "1d40796147495f508d1f51a0065b2df9d1cfd20f0afdb4a95856391f82f2bce6"
+      ]
+    }
+  },
+  "IAQ": {
+    "LEC": {
+      "codigo": "bf6715a9b0ae01daf2039157807e59f21f6324dfe0deb93805f58e67c85a3eb1",
+      "exploracion": [
+        {
+          "texto": "Proyecto: Teoría de la Brújula Cuántica (TBC)\nAutor: Jhosman Carlos Martínez Morales\nEstado: Desarrollo / especulativo\nFecha: 25 de octubre de 2025\nRelaciones: TPI, TB, TPP\nLicencia: Uso personal, educativo e investigativo (no comercial)\n---\n1. Introducción\nLa Brújula Cuántica es un sistema conceptual y multidimensional para orientación, rastreo y organización de información en redes paralelas, superpuestas o cuánticas.\nSu objetivo principal es servir como GPS de datos, evitando la pérdida de información y permitiendo análisis especulativos sobre flujos temporales y paralelos.\n---\n2. Fundamentos\nNodos cuánticos: Cada punto de la brújula es un nodo que almacena información, coordenadas y resonancia.\nExpansión estelar: Cada punta puede generar otra brújula cuántica, creando una red expansiva que cubre espacio-tiempo conceptual.\nDimensiones:\n1ª: izquierda / derecha\n2ª: arriba / abajo\n3ª: centro / profundidad\n4ª: tiempo: pasado / presente / futuro, paralelo / superpuesto\n---\n3. Integración con teorías existentes\nTeoría\tRol en TBC\nTPI (Pregunta Infinita)\tGenera preguntas derivadas para explorar nodos y trayectorias.\nTB (Burbujas)\tOrganiza la información en burbujas verificadas y complementarias.\nTPP (Paradoja)\tExplica la coexistencia de respuestas contradictorias y fenómenos tipo efecto Mandela.\n---\n4. Funcionalidad y aplicaciones\n1. Rastreo de información cuántica: Localiza origen y flujo de datos sin introducir materia física.\n2. Simulación de trayectorias paralelas: Permite modelar cómo se propaga la información en líneas temporales superpuestas.\n3. Análisis de anomalías cognitivas y temporales: Como déjà vu o efecto Mandela, explicando su posible origen en nodos interconectados.\n4. Mapeo multidimensional de conocimiento: Cada nodo conecta con burbujas verificadas o complementarias, expandiendo la comprensión sin perder coherencia.\n---\n5. Estructura de nodos (ejemplo JSON)\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}\n---\n6. Metodología de expansión\n1. Cada nodo puede originar nuevas brújulas cuánticas en sus puntas.\n2. Las nuevas brújulas se integran a la red de nodos existente, creando mapas estelares.\n3. Las burbujas complementarias nutren la comprensión sin reemplazar la información verificada.\n4. Las preguntas generadas por TPI permiten evaluar cada nodo y actualizar su resonancia o relevancia.\n---\n7. Ventajas del sistema\nEscalable: puede crecer indefinidamente sin perder coherencia.\nTrazable: cada nodo tiene huella digital y resonancia.\nRobusto: combina lo verificable (TB) y lo especulativo (TPP) con preguntas generativas (TPI).\nFlexible: permite experimentación conceptual sobre líneas de tiempo y paralelos.\n---\n8. Síntesis conceptual\nBrújula Cuántica = GPS multidimensional de datos\nNodos estelares = puntos de información con resonancia y coordenadas\nTPI = motor de preguntas que expande la red\nTB = organización jerárquica y semántica\nTPP = explicación de fenómenos contradictorios y paradojas\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}",
+          "estado": "ACCEPT",
+          "timestamp": "2026-02-22T12:23:47.826171"
+        }
+      ]
+    },
+    "SEP": {
+      "codigo": "0c7e4d4016331c251cf1932387c2c9bd9509ad02f24a3d6303f835e32d671534",
+      "exploracion": [
+        {
+          "texto": "Proyecto: Teoría de la Brújula Cuántica (TBC)\nAutor: Jhosman Carlos Martínez Morales\nEstado: Desarrollo / especulativo\nFecha: 25 de octubre de 2025\nRelaciones: TPI, TB, TPP\nLicencia: Uso personal, educativo e investigativo (no comercial)\n---\n1. Introducción\nLa Brújula Cuántica es un sistema conceptual y multidimensional para orientación, rastreo y organización de información en redes paralelas, superpuestas o cuánticas.\nSu objetivo principal es servir como GPS de datos, evitando la pérdida de información y permitiendo análisis especulativos sobre flujos temporales y paralelos.\n---\n2. Fundamentos\nNodos cuánticos: Cada punto de la brújula es un nodo que almacena información, coordenadas y resonancia.\nExpansión estelar: Cada punta puede generar otra brújula cuántica, creando una red expansiva que cubre espacio-tiempo conceptual.\nDimensiones:\n1ª: izquierda / derecha\n2ª: arriba / abajo\n3ª: centro / profundidad\n4ª: tiempo: pasado / presente / futuro, paralelo / superpuesto\n---\n3. Integración con teorías existentes\nTeoría\tRol en TBC\nTPI (Pregunta Infinita)\tGenera preguntas derivadas para explorar nodos y trayectorias.\nTB (Burbujas)\tOrganiza la información en burbujas verificadas y complementarias.\nTPP (Paradoja)\tExplica la coexistencia de respuestas contradictorias y fenómenos tipo efecto Mandela.\n---\n4. Funcionalidad y aplicaciones\n1. Rastreo de información cuántica: Localiza origen y flujo de datos sin introducir materia física.\n2. Simulación de trayectorias paralelas: Permite modelar cómo se propaga la información en líneas temporales superpuestas.\n3. Análisis de anomalías cognitivas y temporales: Como déjà vu o efecto Mandela, explicando su posible origen en nodos interconectados.\n4. Mapeo multidimensional de conocimiento: Cada nodo conecta con burbujas verificadas o complementarias, expandiendo la comprensión sin perder coherencia.\n---\n5. Estructura de nodos (ejemplo JSON)\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}\n---\n6. Metodología de expansión\n1. Cada nodo puede originar nuevas brújulas cuánticas en sus puntas.\n2. Las nuevas brújulas se integran a la red de nodos existente, creando mapas estelares.\n3. Las burbujas complementarias nutren la comprensión sin reemplazar la información verificada.\n4. Las preguntas generadas por TPI permiten evaluar cada nodo y actualizar su resonancia o relevancia.\n---\n7. Ventajas del sistema\nEscalable: puede crecer indefinidamente sin perder coherencia.\nTrazable: cada nodo tiene huella digital y resonancia.\nRobusto: combina lo verificable (TB) y lo especulativo (TPP) con preguntas generativas (TPI).\nFlexible: permite experimentación conceptual sobre líneas de tiempo y paralelos.\n---\n8. Síntesis conceptual\nBrújula Cuántica = GPS multidimensional de datos\nNodos estelares = puntos de información con resonancia y coordenadas\nTPI = motor de preguntas que expande la red\nTB = organización jerárquica y semántica\nTPP = explicación de fenómenos contradictorios y paradojas\n{\n\"hash\": \"21ccbf22a98cbc330422ac2fc469626e6cbdd9d84bd8bbcb41bb01\",\n\"tipo_nodo\": \"central/paradoja\",\n\"dimensiones\": {\n\"x\": \"izquierda/derecha\",\n\"y\": \"arriba/abajo\",\n\"z\": \"centro/profundidad\",\n\"t\": \"presente/futuro/pasado\",\n\"resonancia\": \"alta\"\n},\n\"burbujas_relacionadas\": [\"#burb1\", \"#burb2\", \"#burb3\"],\n\"notas\": \"Permite rastrear origen y flujo de información, generar nodos hijos y mantener trazabilidad.\"\n}",
+          "estado": "ACCEPT",
+          "timestamp": "2026-02-22T12:23:47.826761"
+        }
+      ]
+    }
+  },
+  "cierre_NCCM": {
+    "estado_coherencia": {
+      "exitos": 1,
+      "fallos": 0
+    },
+    "memoria_merkle": {
+      "merkle_root": "2a68ca91c6973549a7ddb372796095595908eda7c2e99144702811b939604e52",
+      "total_leaves": 2,
+      "leaves": [
+        "940f59c2d161faa147166bfdd6901bfbe0cb578a7b636b88f861166f30e4c751",
+        "1d40796147495f508d1f51a0065b2df9d1cfd20f0afdb4a95856391f82f2bce6"
+      ]
+    }
+  },
+  "resumen_texto": "=== RESUMEN ESTRUCTURAL DEL ANÁLISIS ===\nSistema: IH-Monolith-Interactivo v1.0\nAutor: Jhosman Carlos Martínez Morales | Firma: CPIA/Johnson\n\n1) Clasificación funcional del texto:\n   - Tipo: VERIFICADA 🔵\n   - Descripción: Coincide directamente con el objetivo funcional.\n   - Coherente con el objetivo: SÍ\n\n2) Estado acumulado de coherencia (NCCM):\n   - Éxitos: 1\n   - Fallos: 0\n\n3) Memoria Merkle (trazabilidad estructural):\n   - Merkle Root: 2a68ca91c6973549a7ddb372796095595908eda7c2e99144702811b939604e52\n   - Total de hojas: 2\n\n4) IAQ por módulo:\n   - Módulo: LEC\n     · Código IAQ: bf6715a9b0ae01daf2039157807e59f21f6324dfe0deb93805f58e67c85a3eb1\n     · Eventos registrados: 1\n   - Módulo: SEP\n     · Código IAQ: 0c7e4d4016331c251cf1932387c2c9bd9509ad02f24a3d6303f835e32d671534\n     · Eventos registrados: 1\n\n5) Fragmento del texto analizado:\n   \"Proyecto: Teoría de la Brújula Cuántica (TBC) Autor: Jhosman Carlos Martínez Morales Estado: Desarrollo / especulativo Fecha: 25 de octubre de 2025 Relaciones: TPI, TB, TPP Licencia: Uso personal, educativo e investigativo (no comercial) --...\"\n=== FIN DEL RESUMEN ==="
+}
+
+>>> RESUMEN TEXTUAL DETALLADO:
+=== RESUMEN ESTRUCTURAL DEL ANÁLISIS ===
+Sistema: IH-Monolith-Interactivo v1.0
+Autor: Jhosman Carlos Martínez Morales | Firma: CPIA/Johnson
+
+1) Clasificación funcional del texto:
+   - Tipo: VERIFICADA 🔵
+   - Descripción: Coincide directamente con el objetivo funcional.
+   - Coherente con el objetivo: SÍ
+
+2) Estado acumulado de coherencia (NCCM):
+   - Éxitos: 1
+   - Fallos: 0
+
+3) Memoria Merkle (trazabilidad estructural):
+   - Merkle Root: 2a68ca91c6973549a7ddb372796095595908eda7c2e99144702811b939604e52
+   - Total de hojas: 2
+
+4) IAQ por módulo:
+   - Módulo: LEC
+     · Código IAQ: bf6715a9b0ae01daf2039157807e59f21f6324dfe0deb93805f58e67c85a3eb1
+     · Eventos registrados: 1
+   - Módulo: SEP
+     · Código IAQ: 0c7e4d4016331c251cf1932387c2c9bd9509ad02f24a3d6303f835e32d671534
+     · Eventos registrados: 1
+
+5) Fragmento del texto analizado:
+   "Proyecto: Teoría de la Brújula Cuántica (TBC) Autor: Jhosman Carlos Martínez Morales Estado: Desarrollo / especulativo Fecha: 25 de octubre de 2025 Relaciones: TPI, TB, TPP Licencia: Uso personal, educativo e investigativo (no comercial) --..."
+=== FIN DEL RESUMEN ===
+
+--- Fin del procesamiento ---
+
+>
